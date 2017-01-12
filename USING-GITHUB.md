@@ -10,8 +10,7 @@
 8. now you should see the link to your **NEW WEBPAGE**
 9. email this url to **btihen@las.ch**
 10. click on the **code** tab
-11. **each team-member** -- click on the button **clone or download** *(choose **open in desktop** -- if it doesn't work download github desktop)*
-12. click on the **index.html** link
+11. **each team-member** -- click on the **index.html** link
 13. click on the **pencil** button to edit the file
 14. One of you change the **Org Name** and one change the **Company Type**
 15. Now go back to your web page and refresh and you should see the changes
