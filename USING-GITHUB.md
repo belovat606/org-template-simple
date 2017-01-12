@@ -11,17 +11,15 @@
 9. email this url to **btihen@las.ch**
 10. click on the **code** tab
 11. **each team-member** -- click on the button **clone or download** *(choose **open in desktop** -- if it doesn't work download github desktop)*
-12. open your **Atom** editor
-13. add the **Git Plus** plugin -- *(Packages -> Settings View -> Manage Pakages -> Install)*
-14. Open your newly downloaded code in Atom
-15. One person on the team should change the organization name **h1** tag-- the other should write the "misson" sentence **h2**.
-16. now test (look at your webpage) in your browser *(Chrome)* -- **File -> Open File**
-15. if you like it do a git **Add and Commit**
-16. now do a git **pull** *(in csase your teammate made changes)*
-17. Now do a git **add + commit + push** (to share your changes).
-18. Now Both change the title of the **Mission statement** title to different things (so you can learn to resolve a git conflict -- *(resolving Conflicts are a part of teamwork ;-)
-19. now create a logo (& add this new image to your project & update the code link to the new image & remove the image already there
-20. check that it works (using chrome)
+12. click on the **index.html** link
+13. click on the **pencil** button to edit the file
+14. One of you change the **Org Name** and one change the **Company Type**
+15. Now go back to your web page and refresh and you should see the changes
+18. Now update the **Mission statement**
+19. now create your company **logo**
+20. upload the new image to the **image** folder
+21. go to the **img** tag and add change the **src** to point to the new logo image
+20. reload your web page and be sure it works
 21. once you are happy with it do a *(put in the images folder & do a git **Add all + commit + push**)
 22. **Demo** your website to another team - get and use at least one person's idea
 23. now split up the **homepage-report.html** (use your **kanban board** so that you each write part of it
