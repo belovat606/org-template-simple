@@ -1,6 +1,7 @@
 # Writing Report
 
 1. open **homepage-report.md**
+2. Each person should work on a different section (or line) - discuss first.
 2. take a picture (screenshot) of your final webpage *(and upload to the **images** folder)*
 3. upload a picture (screenshot) of your prototype *(and upload to the **images** folder)*
 4. name a person in your class who gave you input that is now in the final product.
