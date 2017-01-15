@@ -26,6 +26,8 @@ These basic work flow and information sharing skills are critical for all your p
  4. Create a post-it for each major area
  5. Put tasks to cross off on each post-it
  6. Put tasks into backlog (except **Create Kanban** - *doing* & **Research** - *next*)
+ 
+*(**If unsure - see the classroom example**)*
 
 #### Define an Organization
 1. Choose an Organization **NAME**
