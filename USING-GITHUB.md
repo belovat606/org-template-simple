@@ -1,4 +1,4 @@
-# using github
+# using / learning github
 
 ### Forking (copy code)
 1. login into your github account
