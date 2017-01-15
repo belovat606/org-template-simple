@@ -49,6 +49,7 @@ to roll back as needed, and shared work (submitting & reviewing -- pull requests
 
 #### Write your Product Blog
 1. [Go to write your Report](https://github.com/ed-gility/org-template-simple/blob/master/CREATE-BLOG.md)
+2. Write how the **Product** fits your organization and the **Job** the product does for the *end-user*.
 2. Write the **Acknowledge** section
 3. Write the **Ideas** section - each person should come up with an idea that could improve the product
 4. Write the **Wonder** section - Each person write one technology they *liked* or *learned* or *wonder about* in the project
