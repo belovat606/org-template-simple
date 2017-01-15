@@ -22,10 +22,31 @@ to roll back as needed, and shared work (submitting & reviewing -- pull requests
 4. Choose (vote dot) on the technologies that interest you
 
 #### Setup GitHub
-1. [Go to Using GitHub Instructions](https://github.com/ed-gility/org-template-simple/blob/master/USING-GITHUB.md)
-1. make an account with [GitHub](http://github.com)
-2. one person in the team make a company "group"
-3. invite each person as an **Owner** 
+1. [Go to Using GitHub Instructions](https://github.com/ed-gility/org-template-simple/blob/master/GITHUB-PROJECT.md)
+2. make an account with [GitHub](http://github.com)
+3. one person in the team make a company "group"
+4. invite each person as an **Owner** 
 
-#### Create your Web Page
-1. go to 
+#### Learn GitHub
+1. [Go to Using GitHub Instructions](https://github.com/ed-gility/org-template-simple/blob/master/USING-GITHUB.md)
+2. Fork (copy) sample code into your Organization
+3. Enable Web hosting
+4. Learn to make changes (edits)
+5. Learn to navigate folders and upload files
+
+#### Finish Webpage (learn HTML)
+1. [Go to Learnig HTML](https://github.com/ed-gility/org-template-simple/blob/master/LEARN-HTML.md)
+2. Add your OrgName if not already done
+3. Update your OrgType
+4. Add your Mission statement
+5. Add your Founder Stories
+6. Add your Org Logo
+7. Demo your site & get an idea
+
+#### Write your Product Blog
+1. [Go to write your Report](https://github.com/ed-gility/org-template-simple/blob/master/CREATE-BLOG.md)
+2. Go to the **Acknowledge** section
+3. CREDIT at least one person in your class (not in your group) who gave an idea you used
+4. CREDIT at least one website that helped your group with an idea (or understanding) you were able to use
+5. Go to the **Ideas** section - each person should come up with an idea that could improve the product
+6. Go to the **Wonder** section - Each person write one technology they *liked* or *learned* or *wonder about* in the project
