@@ -21,7 +21,7 @@ to roll back as needed, and shared work (submitting & reviewing -- pull requests
 3. Make up Founder **Stories** -- don't use your real name nor real info
 4. Choose (vote dot) on the technologies that interest you
 
-#### [Setup Git](blob/master/USING-GITHUB.md)
+#### [Setup Git](https://github.com/ed-gility/org-template-simple/blob/master/USING-GITHUB.md)
 1. make an account with [GitHub](http://github.com)
 2. one person in the team make a company "group"
 3. invite each person as an **Owner** 
