@@ -18,13 +18,14 @@ These basic work flow and information sharing skills are critical for all your p
 
 #### Use this list to make a Kanban
 * **Skip this you already have a Kanban folder**
-1. Get a Folder
-2. Put your Organization Name on the Cover
-3. Inside the folder make 6 columns **(Backlog, Next, Doing, Demo, Angles, Done)**
+ 1. Get a Folder
+ 2. Put your Organization Name on the Cover
+ 3. Inside the folder make 6 columns **(Backlog, Next, Doing, Demo, Angles, Done)**
+  
 * **DO FOR EVERY PROJECT**
-4. Create a post-it for each major area
-5. Put tasks to cross off on each post-it
-6. Put tasks into backlog (except **Create Kanban** - *doing* & **Research** - *next*)
+ 4. Create a post-it for each major area
+ 5. Put tasks to cross off on each post-it
+ 6. Put tasks into backlog (except **Create Kanban** - *doing* & **Research** - *next*)
 
 #### Define an Organization
 1. Choose an Organization **NAME**
