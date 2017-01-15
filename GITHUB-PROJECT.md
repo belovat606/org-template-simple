@@ -1,4 +1,4 @@
-# Organization on Github
+# Setup Github
 
 1. go to to https://github.com
 2. click sign-up (enter the required info)
