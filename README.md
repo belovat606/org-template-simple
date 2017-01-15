@@ -15,6 +15,10 @@ to roll back as needed, and shared work (submitting & reviewing -- pull requests
 
 ## Instructions
 
+#### Use this list to make a Kanban
+1. Each Bold face is a Post-it
+2. each line is a task to complete
+
 #### Define an Organization
 1. Choose an Organization **NAME**
 2. Choose an Organization **MISSION** -- decide what you make and for whom
@@ -41,12 +45,12 @@ to roll back as needed, and shared work (submitting & reviewing -- pull requests
 4. Add your Mission statement
 5. Add your Founder Stories
 6. Add your Org Logo
-7. Demo your site & get an idea
+7. **Demo to another group** - show your site to another group & get an idea to use
 
 #### Write your Product Blog
 1. [Go to write your Report](https://github.com/ed-gility/org-template-simple/blob/master/CREATE-BLOG.md)
-2. Go to the **Acknowledge** section
-3. CREDIT at least one person in your class (not in your group) who gave an idea you used
-4. CREDIT at least one website that helped your group with an idea (or understanding) you were able to use
-5. Go to the **Ideas** section - each person should come up with an idea that could improve the product
-6. Go to the **Wonder** section - Each person write one technology they *liked* or *learned* or *wonder about* in the project
+2. Write the **Acknowledge** section
+3. Write the **Ideas** section - each person should come up with an idea that could improve the product
+4. Write the **Wonder** section - Each person write one technology they *liked* or *learned* or *wonder about* in the project
+
+#### Show the Angel Investors
