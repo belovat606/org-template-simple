@@ -1,5 +1,7 @@
 # Project Instructions
 
+You can see what this simple web page looks like here: [https://ed-gility.github.io/org-template-simple/]
+
 ## Mission (problem to solve)
 
 **Create and Document an Organization**
