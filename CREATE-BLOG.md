@@ -2,6 +2,7 @@
 
 1. open **homepage-blog.html**
 2. Each person should work on a different section (or line) - discuss first.
+2. Describe how this product fits your organizational needs and the job it does for the end user
 3. Go to the **Acknowledge** section
 4. CREDIT at least one person in your class (not in your group) who gave an idea you used
 5. CREDIT at least one website that helped your group with an idea (or understanding) you were able to use

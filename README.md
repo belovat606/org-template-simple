@@ -10,14 +10,24 @@ Design an organization and document it (using simple html) so that your Investor
 These basic work flow and information sharing skills are critical for all your projects in this class (and in general it is important to know how to share work and to keep old versions)
 
 * **HTML** basics - (headers, lists, links, images, text and paragraphs)
-* **Git** workflow - branches (master and development branches), the ability
-to roll back as needed, and shared work (submitting & reviewing -- pull requests)
+* **Git** workflow - branches (master and development branches), the ability to roll back as needed, and shared work (submitting & reviewing -- pull requests)
+* **Kanban** workflow - how to track your own progress and keep going
+* **Incremental** Workflow - how to use many little steps that are learnable and easy to change to accomplish a larger goal
 
 ## Instructions
 
 #### Use this list to make a Kanban
-1. Each Bold face is a Post-it
-2. each line is a task to complete
+* **Skip this you already have a Kanban folder**
+ 1. Get a Folder
+ 2. Put your Organization Name on the Cover
+ 3. Inside the folder make 6 columns **(Backlog, Next, Doing, Demo, Angles, Done)**
+  
+* **DO FOR EVERY PROJECT**
+ 4. Create a post-it for each major area
+ 5. Put tasks to cross off on each post-it
+ 6. Put tasks into backlog (except **Create Kanban** - *doing* & **Research** - *next*)
+ 
+*(**If unsure - see the classroom example**)*
 
 #### Define an Organization
 1. Choose an Organization **NAME**
@@ -49,6 +59,7 @@ to roll back as needed, and shared work (submitting & reviewing -- pull requests
 
 #### Write your Product Blog
 1. [Go to write your Report](https://github.com/ed-gility/org-template-simple/blob/master/CREATE-BLOG.md)
+2. Write how the **Product** fits your organization and the **Job** the product does for the *end-user*.
 2. Write the **Acknowledge** section
 3. Write the **Ideas** section - each person should come up with an idea that could improve the product
 4. Write the **Wonder** section - Each person write one technology they *liked* or *learned* or *wonder about* in the project
